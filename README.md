@@ -4,6 +4,12 @@
 
 用 AI 结对开发（vibecoding），坚持 **AI 生成、人工验证** —— 每一行代码都讲得清原理。
 
+## 📖 每日学习打卡 · TIL
+
+学习在公开处（Learning in Public）：每天一篇学习笔记，方向 AI 应用 / RAG / 算法 / 工程技巧 → [**Sgrxin/TIL**](https://github.com/Sgrxin/TIL)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sgrxin&hide_border=true)](https://github.com/Sgrxin/TIL)
+
 ## 🔨 落地项目
 
 ### OAPAC 官方小程序 · 国际医美大会参会平台
