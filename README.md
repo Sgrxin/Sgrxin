@@ -2,9 +2,9 @@
 
 **数据科学与大数据技术 2027 届 · AI 应用开发 / 数据分析 · 厦门**
 
-用 AI 结对开发（vibecoding），坚持 **AI 生成、人工验证** —— 每一行代码都讲得清原理。
+采用 AI 结对开发（vibecoding）工作流，坚持 **AI 生成、人工验证**，开发过程以 git 提交记录完整留痕。
 
-## 📖 每日学习打卡 · TIL
+## 📖 每日学习记录 · TIL
 
 学习在公开处（Learning in Public）：每天一篇学习笔记，方向 AI 应用 / RAG / 算法 / 工程技巧 → [**Sgrxin/TIL**](https://github.com/Sgrxin/TIL)
 
@@ -25,12 +25,12 @@
 
 ### 猫咖门店管理系统（毕业设计）→ [cat-cafe-management](https://github.com/Sgrxin/cat-cafe-management)
 基于 Django 的门店全流程管理：8 大模块 42 功能点，四角色鉴权；工位预约自动冲突检测；ECharts 经营看板。
-PBKDF2 加盐哈希 / ORM 参数化防注入 / CSRF·XSS 防护；**22 项功能验收 + 7 项单元测试全过**。
+PBKDF2 加盐哈希 / ORM 参数化防注入 / CSRF·XSS 防护；**22 项功能验收 + 7 项单元测试全部通过**。
 
 `Django` `Bootstrap5` `ECharts` `SQLite`
 
 ### rag-backend → [rag-backend](https://github.com/Sgrxin/rag-backend)
-RAG 后端服务：PDF/DOCX/MD/TXT 四格式解析层（4/4 测试过）、三级滑窗切分器（12/12 测试过）。
+RAG 后端服务：PDF/DOCX/MD/TXT 四格式解析层（4/4 测试通过）、三级滑窗切分器（12/12 测试通过）。
 
 `Node.js` `TypeScript` `Hono`
 
